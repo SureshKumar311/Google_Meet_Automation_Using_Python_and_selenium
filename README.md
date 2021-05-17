@@ -9,7 +9,7 @@ Normal Mode:
 
 
 
-![image](https://user-images.githubusercontent.com/51741195/118452370-b42c5d00-b713-11eb-9f12-e2dc90be5687.png)
+![image](https://user-images.githubusercontent.com/51741195/118453273-a2978500-b714-11eb-8951-eadaaf3f8ccf.png)
 
 
 
@@ -19,10 +19,10 @@ Advance Mode:
 
 
 
-![image](https://user-images.githubusercontent.com/51741195/118452481-d32aef00-b713-11eb-9102-7cc87037feec.png)
+![image](https://user-images.githubusercontent.com/51741195/118453762-38331480-b715-11eb-93ea-1d56deafe47c.png)
 
 
 
-![image](https://user-images.githubusercontent.com/51741195/118452513-db832a00-b713-11eb-9e64-ed727c55b0d4.png)
+![image](https://user-images.githubusercontent.com/51741195/118453901-5ac52d80-b715-11eb-9458-134d0b553503.png)
 
 
